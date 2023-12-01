@@ -37,6 +37,12 @@ kbd {
   font-size: 4rem;
 }
 
+.playing {
+  transform: scale(1.1);
+  border-color: #ffc600;
+  box-shadow: 0 0 1rem #ffc600;
+}
+
 .sound {
   font-size: 1.2rem;
   text-transform: uppercase;
